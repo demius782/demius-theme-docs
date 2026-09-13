@@ -299,9 +299,9 @@ A: 当前版本仅支持纵向滚动进度。横向滚动不常见，暂未实�
 
 ## 📚 相关文档
 
-- [浮动按钮配置指南](float-buttons-guide.md)
-- [主题使用文档](demius主题使用文档.md)
-- [PJAX兼容性说明](pjax-compatibility.md)
+- [浮动按钮配置指南](features.md)
+- [主题使用文档](../reference/theme-manual.md)
+- [PJAX兼容性说明](PJAX_INSTANT_SWITCH.md)
 
 ---
 

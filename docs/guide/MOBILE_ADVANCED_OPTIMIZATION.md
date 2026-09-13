@@ -370,9 +370,9 @@ initHeaderScrollBehavior();
 
 ## 📚 相关文档
 
-- **手机端优化指南**：`docs/mobile-optimization-guide.md`
+- **手机端优化指南**：`mobile-optimization-guide.md`
 - **Butterfly风格优化**：`MOBILE_BUTTERFLY_OPTIMIZATION.md`
-- **主题文档索引**：`docs/README.md`
+- **主题文档索引**：`README.md`
 
 ---
 

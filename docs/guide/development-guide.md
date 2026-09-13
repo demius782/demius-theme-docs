@@ -158,8 +158,8 @@
 
 典型例子：
 
-- [`content/links.md`](../content/links.md) 通过 `type: "links"` 和 `layout: "links"` 命中 [`themes/demius/layouts/links.html`](../themes/demius/layouts/links.html)
-- [`content/data.md`](../content/data.md) 命中 [`themes/demius/layouts/data.html`](../themes/demius/layouts/data.html)
+- [`content/links.md`](https://github.com/demius782/demius/blob/main/content/links.md) 通过 `type: "links"` 和 `layout: "links"` 命中 [`themes/demius/layouts/links.html`](../themes/demius/layouts/links.html)
+- [`content/data.md`](https://github.com/demius782/demius/blob/main/content/data.md) 命中 [`themes/demius/layouts/data.html`](../themes/demius/layouts/data.html)
 - [`themes/demius/layouts/gallery.html`](../themes/demius/layouts/gallery.html) 直接读取 `.Site.Data.gallery`
 
 这类页面改动时，先确认是改：

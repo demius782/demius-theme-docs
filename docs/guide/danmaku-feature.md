@@ -623,8 +623,8 @@ formatTime(timestamp) {
 ## 📚 相关文档
 
 - [Artalk 评论系统文档](https://artalk.js.org)
-- [浮动按钮配置指南](float-buttons-guide.md)
-- [主题配置文档](../content/posts/demius主题使用文档.md)
+- [浮动按钮配置指南](features.md)
+- [主题配置文档](../reference/theme-manual.md)
 
 ---
 

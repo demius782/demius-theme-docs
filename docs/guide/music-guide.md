@@ -828,7 +828,7 @@ static/
 
 ### 相关文档
 
-- [音乐播放器使用示例](../content/posts/音乐播放器功能使用示例.md)
+- [音乐播放器使用示例](music-guide.md)
 - [Demius主题文档](README.md)
 - [其他功能指南](.)
 

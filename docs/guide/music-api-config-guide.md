@@ -431,5 +431,5 @@ hugo server
 
 **文档版本**: v1.4.0  
 **更新时间**: 2025-10-25  
-**相关文档**: [音乐播放器使用指南](music-guide.md) | [API状态说明](../MUSIC_API_STATUS.md)
+**相关文档**: [音乐播放器使用指南](music-guide.md) | [API状态说明](music-api-config-guide.md)
 

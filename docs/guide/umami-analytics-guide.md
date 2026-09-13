@@ -436,9 +436,9 @@ add_header Access-Control-Allow-Origin "https://blog.example.com" always;
 
 - [Umami 官方文档](https://umami.is/docs)
 - [Umami GitHub 仓库](https://github.com/umami-software/umami)
-- [Umami API 文档](https://umami.is/docs/api)
-- [主题更新日志](../content/posts/Demius主题更新日志.md)
-- [主题使用文档](../content/posts/demius主题使用文档.md)
+- [Umami API 文档](https://umami.is/api)
+- [主题更新日志](../reference/changelog.md)
+- [主题使用文档](../reference/theme-manual.md)
 
 ## 💡 提示
 

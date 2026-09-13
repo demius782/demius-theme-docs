@@ -297,7 +297,7 @@ jkapi可能有每日请求限制
 - [nsmao API使用指南](nsmao-api-guide.md)
 - [Meting API使用指南](meting-api-guide.md)
 - [音乐API配置指南](music-api-config-guide.md)
-- [本地音乐使用说明](../static/audio/README.md)
+- [本地音乐使用说明](https://github.com/demius782/demius/blob/main/static/audio/README.md)
 
 ---
 

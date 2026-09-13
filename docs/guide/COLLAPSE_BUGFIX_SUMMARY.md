@@ -118,7 +118,7 @@ Hugo 解析 shortcode
 ## 📝 文档更新
 
 ### 更新的文档
-1. **`docs/collapse-guide.md`**
+1. **`collapse-guide.md`**
    - 添加 "完整的 Markdown 渲染支持" 特性说明
    - 新增 "常见问题" 章节，包含此 bug 的说明
    - 添加 "更新历史" 记录 v2.4.0 修复
@@ -269,7 +269,7 @@ hugo server
 
 ### 修复内容
 1. ✅ 修复 `collapse.html` shortcode，添加 `markdownify`
-2. ✅ 更新 `docs/collapse-guide.md` 文档
+2. ✅ 更新 `collapse-guide.md` 文档
 3. ✅ 添加常见问题和故障排查指南
 4. ✅ 记录更新历史
 

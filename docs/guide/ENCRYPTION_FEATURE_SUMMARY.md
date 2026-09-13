@@ -75,7 +75,7 @@ Demius 主题的文章加密功能已完整实现，包括**全文加密**和**�
 ### 5. 文档和示例
 
 #### 使用指南
-- **`docs/encryption-guide.md`**
+- **`encryption-guide.md`**
   - 完整的功能说明
   - 使用方法和示例
   - 配置说明
@@ -363,7 +363,7 @@ if (window.initEncryption) {
 ## 📚 文档资源
 
 ### 用户文档
-- **`docs/encryption-guide.md`** - 完整使用指南
+- **`encryption-guide.md`** - 完整使用指南
   - 功能介绍
   - 使用方法
   - 配置说明

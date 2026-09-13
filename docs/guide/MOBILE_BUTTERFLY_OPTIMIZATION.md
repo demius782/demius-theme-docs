@@ -83,7 +83,7 @@
    - 窗口大小响应
    - PJAX兼容
 
-3. **`docs/mobile-optimization-guide.md`**
+3. **`mobile-optimization-guide.md`**
    - 详细使用文档
    - 技术实现说明
    - 测试方法
@@ -263,8 +263,8 @@ hugo --cleanDestinationDir
 ## 📚 文档
 
 详细文档请查看：
-- **使用指南**：`docs/mobile-optimization-guide.md`
-- **主题文档索引**：`docs/README.md`
+- **使用指南**：`mobile-optimization-guide.md`
+- **主题文档索引**：`README.md`
 
 ---
 

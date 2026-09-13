@@ -425,7 +425,7 @@ groups:
   system = "artalk"
 ```
 
-详见：[评论系统配置指南](comment-guide.md)
+详见：[评论系统配置指南](umami-analytics-guide.md)
 
 ---
 

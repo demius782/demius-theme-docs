@@ -457,7 +457,7 @@ themes/demius/
 ## 相关文档
 
 - [文章置顶功能指南](post-pinned-guide.md)
-- [主题颜色配置](theme-colors-guide.md)（如有）
+- [主题颜色配置](color-text-guide.md)（如有）
 - [主题文档索引](README.md)
 
 ---

@@ -42,14 +42,14 @@
 - 导入新的 `_aside-unified.css`
 
 ### 4. 文档
-**`docs/aside-unified-mode-guide.md`** (新建)
+**`aside-unified-mode-guide.md`** (新建)
 - 完整的使用指南
 - 配置说明
 - 效果对比
 - 自定义样式方法
 - 常见问题解答
 
-**`docs/README.md`**
+**`README.md`**
 - 添加侧栏一体化模式索引
 - 更新快速导航
 
@@ -237,14 +237,14 @@
 
 ### 新建文件
 1. `themes/demius/assets/css/_aside-unified.css` - 一体化模式样式
-2. `docs/aside-unified-mode-guide.md` - 使用指南文档
+2. `aside-unified-mode-guide.md` - 使用指南文档
 3. `ASIDE_UNIFIED_MODE_SUMMARY.md` - 功能实现总结
 
 ### 修改文件
 1. `hugo.toml` - 添加 `unifiedMode` 配置
 2. `themes/demius/layouts/_default/baseof.html` - 添加条件类名
 3. `themes/demius/assets/css/main.css` - 导入新CSS
-4. `docs/README.md` - 添加功能索引
+4. `README.md` - 添加功能索引
 
 ---
 

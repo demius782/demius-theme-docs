@@ -162,7 +162,7 @@
    - 移动端适配
    - 自定义文字和样式
 
-18. **[评论可见内容功能](reply-visible-guide.md)**
+18. **[评论可见内容功能](../reference/theme-manual.md)**
    - 评论后可见内容
    - 支持Artalk等评论系统
    - LocalStorage状态记录

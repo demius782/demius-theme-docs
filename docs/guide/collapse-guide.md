@@ -282,5 +282,5 @@ console.log('Hello');
 
 ---
 
-**更多示例请查看**：[内容折叠功能使用示例](../content/posts/内容折叠功能使用示例.md)
+**更多示例请查看**：[内容折叠功能使用示例](collapse-guide.md)
 

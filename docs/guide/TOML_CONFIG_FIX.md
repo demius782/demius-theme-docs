@@ -214,7 +214,7 @@ grep "footer-custom" public/index.html
 
 - [TOML 官方规范](https://toml.io/cn/)
 - [Hugo 配置文档](https://gohugo.io/getting-started/configuration/)
-- [页脚配置指南](docs/footer-guide.md)
+- [页脚配置指南](footer-guide.md)
 
 ---
 

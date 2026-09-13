@@ -480,9 +480,9 @@ custom = """
 
 ## 📚 相关文档
 
-- [页脚配置完整指南](docs/footer-guide.md)
+- [页脚配置完整指南](footer-guide.md)
 - [页脚功能实现总结](FOOTER_FEATURES_IMPLEMENTATION.md)
-- [主题文档索引](docs/README.md)
+- [主题文档索引](README.md)
 
 ---
 

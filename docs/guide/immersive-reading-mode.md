@@ -339,13 +339,12 @@ body.immersive-mode .site-footer {
 
 ## 📚 相关文档
 
-- [浮动按钮配置指南](float-buttons-guide.md)
+- [浮动按钮配置指南](features.md)
 - [阅读进度显示功能](reading-progress-feature.md)
-- [主题使用文档](demius主题使用文档.md)
+- [主题使用文档](../reference/theme-manual.md)
 
 ---
 
 **最后更新**: 2025-10-28  
 **文档版本**: v1.0  
 **适用版本**: Demius v2.6.2+
-

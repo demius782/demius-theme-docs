@@ -216,9 +216,9 @@ A: 侧栏组件会检查是否有 `cover`，如果移除缩略图区域，只需
 
 ## 📚 相关文档
 
-- [主题使用文档](demius主题使用文档.md)
-- [侧栏配置指南](aside-configuration.md)
-- [图片配置说明](image-configuration.md)
+- [主题使用文档](../reference/theme-manual.md)
+- [侧栏配置指南](sidebar-guide.md)
+- [图片配置说明](background-guide.md)
 
 ---
 

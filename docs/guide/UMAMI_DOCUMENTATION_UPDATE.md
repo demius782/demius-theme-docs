@@ -47,7 +47,7 @@
 
 ### 3. Umami统计配置指南（新建）
 
-**文件路径**: `docs/umami-analytics-guide.md`
+**文件路径**: `umami-analytics-guide.md`
 
 **文档结构**:
 
@@ -195,7 +195,7 @@
 ## 📊 文档统计
 
 ### 新增文件
-- ✅ `docs/umami-analytics-guide.md` (约 14KB，500+ 行)
+- ✅ `umami-analytics-guide.md` (约 14KB，500+ 行)
 - ✅ `content/posts/数据统计功能使用示例.md` (约 10KB，350+ 行)
 
 ### 更新文件

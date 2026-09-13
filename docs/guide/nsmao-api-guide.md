@@ -410,8 +410,8 @@ netease = "https://api.nsmao.net/api/wy/query?key=NEW_KEY&id={id}..."
 
 - [音乐播放器使用指南](music-guide.md)
 - [音乐API配置指南](music-api-config-guide.md)
-- [本地音乐使用说明](../static/audio/README.md)
-- [API不稳定性分析](../MUSIC_API_INSTABILITY_ANALYSIS.md)
+- [本地音乐使用说明](https://github.com/demius782/demius/blob/main/static/audio/README.md)
+- [API不稳定性分析](nsmao-api-guide.md)
 
 ---
 

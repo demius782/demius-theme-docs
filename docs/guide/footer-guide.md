@@ -521,8 +521,8 @@ themes/demius/
 ## 相关文档
 
 - [主题配置总览](../README.md)
-- [PJAX无刷新切换](pjax-guide.md)（如有）
-- [自定义样式指南](custom-styles-guide.md)（如有）
+- [PJAX无刷新切换](PJAX_INSTANT_SWITCH.md)（如有）
+- [自定义样式指南](configuration.md)（如有）
 
 ---
 

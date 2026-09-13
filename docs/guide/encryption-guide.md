@@ -538,9 +538,9 @@ print(fibonacci(10))
 
 ## 📚 相关文档
 
-- [Demius 主题使用文档](./demius主题使用文档.md)
+- [Demius 主题使用文档](../reference/theme-manual.md)
 - [内容折叠功能](./collapse-guide.md)
-- [评论可见功能](./reply-visible-guide.md)
+- [评论可见功能](./../reference/theme-manual.md)
 
 ---
 

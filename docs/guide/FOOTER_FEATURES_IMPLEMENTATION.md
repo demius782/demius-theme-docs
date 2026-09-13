@@ -154,14 +154,14 @@ import './_running-time.js';
 
 ### 创建的文档
 
-1. **`docs/footer-guide.md`** - 页脚配置完整使用指南
+1. **`footer-guide.md`** - 页脚配置完整使用指南
    - ✅ 运行时间配置
    - ✅ 网站地图说明
    - ✅ 备案信息配置
    - ✅ 自定义内容
    - ✅ 常见问题解答
 
-2. **`docs/README.md`** - 更新文档索引
+2. **`README.md`** - 更新文档索引
    - ✅ 添加页脚配置功能条目
    - ✅ 标记为新增功能
 
@@ -340,7 +340,7 @@ import './_running-time.js';
 | `main.css` | 导入运行时间样式 |
 | `main.js` | 导入运行时间功能 |
 | `_simple-pjax.js` | 添加PJAX兼容代码 |
-| `docs/README.md` | 更新文档索引 |
+| `README.md` | 更新文档索引 |
 
 ---
 
@@ -483,8 +483,8 @@ startDate = "2023-01-01"
 
 ## 📚 相关文档
 
-- **使用指南**：[docs/footer-guide.md](docs/footer-guide.md)
-- **文档索引**：[docs/README.md](docs/README.md)
+- **使用指南**：[footer-guide.md](footer-guide.md)
+- **文档索引**：[README.md](README.md)
 - **配置文件**：`hugo.toml`
 
 ---

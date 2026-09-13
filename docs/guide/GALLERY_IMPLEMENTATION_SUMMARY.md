@@ -43,7 +43,7 @@
 
 #### 📚 创建的文档
 
-1. **`docs/gallery-guide.md`**
+1. **`gallery-guide.md`**
    - 完整的相册功能使用指南
    - 包含配置说明、使用示例、高级功能
    - 样式定制方法、常见问题解答
@@ -55,12 +55,12 @@
    - 多个实际示例
    - 故障排查和使用技巧
 
-3. **`docs/README.md`**
+3. **`README.md`**
    - 更新主文档索引
    - 添加相册功能条目
    - 更新功能列表和统计
 
-4. **`docs/GALLERY_IMPLEMENTATION_SUMMARY.md`** (本文件)
+4. **`GALLERY_IMPLEMENTATION_SUMMARY.md`** (本文件)
    - 实现总结文档
 
 ### 3. 数据配置
@@ -129,7 +129,7 @@ content/
 data/
 └── gallery.yaml                   # 相册数据配置（已存在）
 
-docs/
+
 ├── README.md                      # 主文档索引（已更新）
 ├── gallery-guide.md               # 相册使用指南（新）
 └── GALLERY_IMPLEMENTATION_SUMMARY.md  # 本文件（新）
@@ -375,13 +375,13 @@ initGallery()     // 重新初始化
 ### 相关文档
 
 - [相册功能使用指南](./gallery-guide.md)
-- [相册功能使用示例](../content/posts/相册功能使用示例.md)
+- [相册功能使用示例](gallery-guide.md)
 - [Demius主题文档](./README.md)
 
 ### 技术参考
 
 - [Hugo Data Templates](https://gohugo.io/templates/data-templates/)
-- [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [CSS Grid Layout](https://developer.mozilla.org/en-US/Web/CSS/CSS_Grid_Layout)
 - [PJAX](https://github.com/MoOx/pjax)
 
 ---

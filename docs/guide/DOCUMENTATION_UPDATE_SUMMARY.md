@@ -249,15 +249,15 @@
 ## 功能文档
 
 完整的功能使用文档请访问：
-- 📚 [主题文档索引](docs/README.md)
-- 🎵 [音乐播放器使用指南](docs/music-guide.md)
-- 🎨 [彩色文字使用说明](docs/color-text-guide.md)
-- 🔒 [评论可见功能文档](docs/reply-visible-guide.md)
-- ⏱️ [页脚配置使用指南](docs/footer-guide.md)
-- 📦 [内容折叠功能指南](docs/collapse-guide.md)
-- 📅 [时间线功能指南](docs/timeline-guide.md)
-- 📑 [选项卡功能指南](docs/tabs-guide.md)
-- 🖼️ [相册功能指南](docs/gallery-guide.md)
+- 📚 [主题文档索引](README.md)
+- 🎵 [音乐播放器使用指南](music-guide.md)
+- 🎨 [彩色文字使用说明](color-text-guide.md)
+- 🔒 [评论可见功能文档](../reference/theme-manual.md)
+- ⏱️ [页脚配置使用指南](footer-guide.md)
+- 📦 [内容折叠功能指南](collapse-guide.md)
+- 📅 [时间线功能指南](timeline-guide.md)
+- 📑 [选项卡功能指南](tabs-guide.md)
+- 🖼️ [相册功能指南](gallery-guide.md)
 ```
 
 #### 更新文档信息
@@ -351,20 +351,20 @@
 
 ### 功能使用文档
 
-- [音乐播放器使用指南](docs/music-guide.md)
-- [音乐API配置指南](docs/music-api-config-guide.md)
-- [彩色文字使用说明](docs/color-text-guide.md)
-- [评论可见功能文档](docs/reply-visible-guide.md)
-- [页脚配置使用指南](docs/footer-guide.md)
-- [内容折叠功能指南](docs/collapse-guide.md)
-- [时间线功能指南](docs/timeline-guide.md)
-- [选项卡功能指南](docs/tabs-guide.md)
+- [音乐播放器使用指南](music-guide.md)
+- [音乐API配置指南](music-api-config-guide.md)
+- [彩色文字使用说明](color-text-guide.md)
+- [评论可见功能文档](../reference/theme-manual.md)
+- [页脚配置使用指南](footer-guide.md)
+- [内容折叠功能指南](collapse-guide.md)
+- [时间线功能指南](timeline-guide.md)
+- [选项卡功能指南](tabs-guide.md)
 
 ### 技术文档
 
 - [页脚样式优化说明](FOOTER_STYLE_IMPROVEMENTS.md)
 - [TOML配置修复说明](TOML_CONFIG_FIX.md)
-- [主题文档索引](docs/README.md)
+- [主题文档索引](README.md)
 
 ---
 
