@@ -9,7 +9,7 @@ icon: file-lines
 
 ## 页面与统计
 
-- [主页布局功能展示](home-layout-notes.html)：了解不同首页布局引擎的实际效果。
+- [布局与视觉模式配置图鉴](home-layout-notes.html)：按效果图查找首页布局、大图、背景、侧栏、字体和弹幕的可复制配置。
 - [Umami 统计数据页面说明](umami-notes.html)：配置统计数据页面时的接口与跨域注意事项。
 
 ## 功能更新记录

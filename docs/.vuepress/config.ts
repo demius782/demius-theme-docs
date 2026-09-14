@@ -33,6 +33,7 @@ export default defineUserConfig({
       {
         text: "完整资料",
         children: [
+          { text: "布局与视觉模式", link: "/reference/home-layout-notes.html" },
           { text: "主题使用手册", link: "/reference/theme-manual.html" },
           { text: "更新日志", link: "/reference/changelog.html" },
           { text: "专项说明", link: "/reference/notes.html" },
@@ -116,7 +117,7 @@ export default defineUserConfig({
           text: "完整资料",
           icon: "book",
           collapsible: false,
-          children: ["theme-manual", "changelog", "notes"],
+          children: ["home-layout-notes", "theme-manual", "changelog", "notes"],
         },
       ],
       "/": [""],
