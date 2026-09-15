@@ -1,4 +1,8 @@
 node_modules/
+docs/.vitepress/cache/
+docs/.vitepress/.temp/
+docs/.vitepress/dist/
+# Ignore local output left by the former VuePress setup.
 docs/.vuepress/.cache/
 docs/.vuepress/.temp/
 docs/.vuepress/dist/

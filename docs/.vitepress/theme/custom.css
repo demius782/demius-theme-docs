@@ -1,9 +1,8 @@
 :root {
-  --vp-c-accent: #0f766e;
-  --vp-c-accent-bg: #0f766e;
-  --vp-c-accent-hover: #115e59;
-  --vp-c-accent-soft: rgba(15, 118, 110, 0.12);
-  --theme-color: #0f766e;
+  --vp-c-brand-1: #0f766e;
+  --vp-c-brand-2: #115e59;
+  --vp-c-brand-3: #0d9488;
+  --vp-c-brand-soft: rgba(15, 118, 110, 0.14);
 }
 
 .home-intro {
@@ -11,7 +10,7 @@
   margin: 1.5rem auto 0;
   padding: 0 1rem;
   text-align: center;
-  color: var(--vp-c-text-mute);
+  color: var(--vp-c-text-2);
   font-size: 1.08rem;
   line-height: 1.8;
 }
@@ -25,15 +24,22 @@
 }
 
 .home-links a {
-  color: var(--vp-c-accent);
+  color: var(--vp-c-brand-1);
   font-weight: 600;
 }
 
-.vp-hero-image {
+.VPHero .VPImage {
   max-width: 170px;
   max-height: 170px;
-  border-radius: 24px;
+  border-radius: 8px;
   box-shadow: 0 18px 44px rgba(15, 118, 110, 0.18);
+}
+
+@media (min-width: 960px) {
+  .VPHero .text {
+    font-size: 50px;
+    line-height: 1.15;
+  }
 }
 
 @media (max-width: 719px) {
